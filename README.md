@@ -1,2 +1,3 @@
-##Medical Image Classification
-###André Mariucci
+# Medical Image Classification
+## Third Year Project
+### André Mariucci
